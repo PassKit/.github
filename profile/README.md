@@ -14,7 +14,7 @@ PassKit has issued over 350 million passes! And today, thousands of businesses w
 - [Rest](https://github.com/PassKit/passkit-rest-quickstart)
 - [PHP](https://github.com/PassKit/passkit-php-quickstart) _coming soon_
 
-### SDKS
+### SDKs
 - [Java](https://github.com/PassKit/passkit-java-grpc-sdk)
 - [PHP](https://github.com/PassKit/passkit-php-grpc-sdk)
 - [Golang](https://github.com/PassKit/passkit-golang-grpc-sdk)
